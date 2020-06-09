@@ -5,7 +5,7 @@ https://elmas3.github.io/mao-seminar/
 
 
 #メンバー　
-エルます３
+エルます３ー
 
 # ディレクトリ構成
 ```
